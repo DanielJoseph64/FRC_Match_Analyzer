@@ -1,0 +1,31 @@
+match_id,team_number,team_name,alliance,auto_points,teleop_points,endgame_points,fouls,disqualified,alliance_red_score,alliance_blue_score
+Q1,5596,Iron Claw,red,12,48,20,1,false,142,118
+Q1,1114,Simbotics,red,15,52,20,0,false,142,118
+Q1,330,Beach Cities Robotics,red,8,42,10,2,false,142,118
+Q1,254,The Cheesy Poofs,blue,18,55,15,0,false,142,118
+Q1,1678,Citrus Circuits,blue,14,44,10,1,false,142,118
+Q1,2056,OP Robotics,blue,10,38,10,3,false,142,118
+Q2,254,The Cheesy Poofs,red,20,58,20,0,false,158,101
+Q2,2056,OP Robotics,red,16,50,15,0,false,158,101
+Q2,5596,Iron Claw,red,10,44,10,1,false,158,101
+Q2,1114,Simbotics,blue,9,40,10,2,false,158,101
+Q2,330,Beach Cities Robotics,blue,7,35,5,3,false,158,101
+Q2,1678,Citrus Circuits,blue,11,38,10,1,false,158,101
+Q3,1678,Citrus Circuits,red,17,50,20,0,false,150,145
+Q3,330,Beach Cities Robotics,red,9,45,10,1,false,150,145
+Q3,2056,OP Robotics,red,14,42,10,2,false,150,145
+Q3,1114,Simbotics,blue,19,54,20,0,false,150,145
+Q3,254,The Cheesy Poofs,blue,15,48,15,0,false,150,145
+Q3,5596,Iron Claw,blue,8,36,5,3,true,150,145
+Q4,5596,Iron Claw,red,14,46,15,0,false,130,140
+Q4,254,The Cheesy Poofs,red,13,44,10,1,false,130,140
+Q4,1678,Citrus Circuits,red,9,40,10,2,false,130,140
+Q4,2056,OP Robotics,blue,18,52,20,0,false,130,140
+Q4,330,Beach Cities Robotics,blue,12,46,15,0,false,130,140
+Q4,1114,Simbotics,blue,16,48,15,1,false,130,140
+Q5,1114,Simbotics,red,20,56,20,0,false,165,120
+Q5,254,The Cheesy Poofs,red,17,50,20,0,false,165,120
+Q5,5596,Iron Claw,red,11,42,10,1,false,165,120
+Q5,1678,Citrus Circuits,blue,10,40,10,2,false,165,120
+Q5,330,Beach Cities Robotics,blue,8,38,10,1,false,165,120
+Q5,2056,OP Robotics,blue,9,36,10,3,false,165,120
